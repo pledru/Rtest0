@@ -6,3 +6,7 @@
 test_it <- function() {
   print("test it...")
 }
+
+test_it2 <- function() {
+    return "test 0"
+}
