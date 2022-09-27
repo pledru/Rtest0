@@ -4,6 +4,8 @@
 #'
 #' @export
 #
+#' @examples
+#' test_it()
 test_it <- function() {
   print("test it...")
 }
@@ -14,6 +16,8 @@ test_it <- function() {
 #'
 #' @export
 #
+#' @examples
+#' test_it()
 test_it2 <- function() {
     r = "test 0"
     r
