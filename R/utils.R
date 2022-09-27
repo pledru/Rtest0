@@ -8,5 +8,6 @@ test_it <- function() {
 }
 
 test_it2 <- function() {
-    return "test 0"
+    r = "test 0"
+    r
 }
