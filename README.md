@@ -20,9 +20,17 @@ install.packages("devtools")
 ```
 Install the package from GitHub:
 ```r
-library("devtools")
+library(devtools)
 install_github("pledru/Rtest0")
 ```
 Load the package:
 ```r
-library("Rtest0")
+library(Rtest0)
+
+## Example
+
+```r
+library(tidyverse)
+library(Rtest0)
+test_plot()
+```
