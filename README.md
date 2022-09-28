@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Most dependencies can be installed through CRAN.
 
-Install tidyverse
+Install tidyverse:
 ```r
 install.packages("tidyverse")
 ```
