@@ -11,6 +11,7 @@ Most dependencies can be installed through CRAN.
 Install tidyverse
 ```r
 install.packages("tidyverse")
+```
 
 ### Install the package
 Install devtools:
