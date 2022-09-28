@@ -26,6 +26,7 @@ install_github("pledru/Rtest0")
 Load the package:
 ```r
 library(Rtest0)
+```
 
 ## Example
 
