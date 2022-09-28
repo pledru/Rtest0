@@ -3,3 +3,4 @@
 export(str_split_one)
 export(test_it)
 export(test_it2)
+export(test_plot)
