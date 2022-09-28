@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Dependencies
 
-Most dependencies can be installed through CRAN.
+All dependencies can be installed through CRAN.
 
 Install tidyverse:
 ```r
