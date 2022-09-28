@@ -6,7 +6,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Dependencies
 
-Most dependencies can be installed along with Capybara through CRAN.
+Most dependencies can be installed through CRAN.
+
+Install tidyverse
+```r
+install.packages("tidyverse")
 
 ### Install the package
 Install devtools:
